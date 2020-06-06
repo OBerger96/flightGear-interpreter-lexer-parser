@@ -54,9 +54,7 @@ We can see that arithmetic expressions are supported as well, and to interpret t
 A function called lexing whose job is to read the script that needs to be interpreted (a single line from the console or a complete file of commands) and it will return an ArrayList of strings. 
 Each string is a word in the program that needs to be interpreted.
 
-<p align="center">
-  <img src="/readme_images/Lexer.jpg" width="650">
-</p>
+<p align="center"><img src="/readme_images/Lexer.jpg" width="650"></p>
 
 ### Parser
 
