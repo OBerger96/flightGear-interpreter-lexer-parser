@@ -10,7 +10,7 @@ This simulator is also a server that can be connected as a client (and also as a
 This allows us to easily retrieve information about the various flight parameters in real time and even inject commands to fly the aircraft.
 
 
-## Script Reader ( Interpreter )
+## Script Reader (Interpreter)
 As mentioned, we would like to write an interpreter for a new programming language aimed at flying the aircraft in the simulator.
 First, we set a sample code that aims to make the plane take off in a straight line.
 
