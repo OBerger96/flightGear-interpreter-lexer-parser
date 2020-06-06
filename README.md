@@ -79,7 +79,3 @@ So given the string, we can immediately pull out the command that needs to be ex
 <p align="center">
   <img src="/readme_images/Parser.jpg" width="650">
 </p>
-
-<br /><br /><br /><br />
-**This project was made for my Advanced Software Development Course, Which was taught by Dr. Eliahu Khalastchi,<br/> 
-at The College of Management Academic Studies .<br/>**
