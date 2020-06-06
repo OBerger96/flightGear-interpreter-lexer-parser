@@ -1,6 +1,6 @@
 # Advanced Software Development Project - milestone 4
 
-Writing a code interpreter (including lexer and parser) to parse a new programming language that controls an unmanned aircraft.
+Writing a code interpreter using lexical analysis and syntax analysis to parse a new programming language that controls an unmanned aircraft.
 
 ## Introduction
 In this repository, I will introduce milestone 4 in the final project of the Advanced Software Development course.
